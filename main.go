@@ -2,7 +2,7 @@
 package main
 
 import (
-    "fmt"
+	"fmt"
 	"github.com/nsf/termbox-go"
 	//"unicode/utf8"
 )
